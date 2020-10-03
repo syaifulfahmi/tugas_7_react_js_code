@@ -20,7 +20,7 @@ function Header() {
           		<Col sm>
               		<Breadcrumb>
                  		<Breadcrumb.Item href="#">Home</Breadcrumb.Item>
-                  		<Breadcrumb.Item href="https://github.com/syaifulfahmi/tugas_7_react_js_code">Berita</Breadcrumb.Item>
+                  		<Breadcrumb.Item href="https://github.com/syaifulfahmi/tugas_7_react_js_code" target="blank">Berita</Breadcrumb.Item>
                   		<Breadcrumb.Item active>Bola</Breadcrumb.Item>
               		</Breadcrumb>
           		</Col>
